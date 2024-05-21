@@ -37,7 +37,7 @@ Our overall dataset contains 6,742 drone images and 11 satellite maps, with a to
 
 | ![table2.png](https://github.com/IntelliSensing/UAV-VisLoc/blob/main/img/table2.png)| 
 |:--:| 
-| *TABLE I A SUMMARY OF RELATED UAV VISUAL LOCALIZATION DATASETS.* |
+| *TABLE I: IMAGE ATTRIBUTE COMPOSITION FOR THE UAV-VisLoc DATASET.* |
 
 
 
