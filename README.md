@@ -23,6 +23,7 @@ Fig. 1 shows the dataset-collecting process. The red point in the coordinate sys
 <div align=center>
 <img src="https://github.com/IntelliSensing/UAV-VisLoc/blob/main/img/fig1.png" width="60%">
 </div>
+
 ## 2. About Dataset
 
 ### 2.1  Overall Dataset
