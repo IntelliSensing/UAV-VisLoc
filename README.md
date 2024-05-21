@@ -19,11 +19,12 @@ Our technical report has been released on the [arXiv](https://arxiv.org/abs/2405
 ## 1. Introduction
 We unify the definition of visual localization methods for UAVs in real scenarios and propose a dataset as a benchmark for the visual localization task. The UAV can obtain its location coordinates by matching the UAV image with the satellite map when losing its GNSS coordinates. To construct the benchmark dataset, we collect a sequence of images on the UAV flight track in our dataset, and we further collect an orthorectified remote sensing map covering a large geographic area in which every pixel is labeled with coordinates.
 
+The dataset collecting process is shown in Fig. 1. The task is defined as a UAV obtaining the coordinates of its current location by matching the down image with the satellite map when losing its GNSS coordinates.
 
 
 | ![fig1.png](https://github.com/IntelliSensing/UAV-VisLoc/blob/main/img/fig1.png) | 
 |:--:| 
-| *Fig. 1 shows the dataset-collecting process. The red point in the coordinate system represents the projection of the drone’s current location on the ground, i.e., the center point of the image taken by the drone. The yellow points represent the satellite map boundaries of the entire flight range.* |
+| *Fig. 1 The dataset collecting process.* |
 
 ## 2. About Dataset
 
@@ -84,10 +85,11 @@ You can download our dataset example (2.04 GB) on [Google Drive](https://drive.g
 
 We further provide a high-quality dataset sample, comprising carefully selected UAV images that exhibit minimal coordinate error and feature a diverse range of topographical elements, with a total size of 2.04 GB
 
+As shown in Fig. 2, each satellite map downloaded from Google Maps contains all UAV images captured by a single drone flight, which may encompass various terrains such as cities, towns, farms, and rivers. 
 
 | ![fig2.png](https://github.com/IntelliSensing/UAV-VisLoc/blob/main/img/fig2.png) | 
 |:--:| 
-| *As shown in Fig. 2, the satellite map in the dataset sample encompasses various terrains, such as cities, towns, farms, and rivers.* |
+| *Fig. 2 An example of drone images and satellite map.* |
 
 Detailed File Structure：
 
