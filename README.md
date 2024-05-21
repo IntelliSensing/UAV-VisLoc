@@ -42,9 +42,9 @@ Our overall dataset contains 6,742 drone images and 11 satellite maps, with a to
 
 The dataset contents are as follows:
 
-| Drone-view | Satellite-view | Cites | Categories |
-| ---------- | -------------- | ----- | ---------- |
-| 6742       | 11             | 11    | 7          |
+| Drone Images | Satellite Maps | Cites | Categories |
+| ------------ | -------------- | ----- | ---------- |
+| 6742         | 11             | 11    | 7          |
 
 
 More detailed file structure:
@@ -53,28 +53,28 @@ More detailed file structure:
 ├── UAV-VisLoc/
 │   ├── satellite_coordinates_range.csv   /* format as: filename latitude longitude
 │   ├── 01/
-│       ├── drone/                    /* drone-view images
+│       ├── drone/                    /* drone images
 │           ├── 01_0001.JPG
 │           ├── 01_0002.JPG
 │           ├── 01_0003.JPG
 |           ...
-│       ├── satellite01.tif              	   /* satellite-view image
+│       ├── satellite01.tif              	   /* satellite maps
 │       ├── 01.csv			   		   /* format as: filename latitude longitude height ···
 │   ├── 02/
-│       ├── drone/                     /* drone-view images
+│       ├── drone/                     /* drone images
 │           ├── 02_0001.JPG
 │           ├── 02_0002.JPG
 │           ├── 02_0003.JPG
 |           ...
-│       ├── satellite02.tif               		/* satellite-view image
+│       ├── satellite02.tif               		/* satellite maps
 │       ├── 02.csv				        /* format as: filename latitude longitude height ···
 │   ├── 03/
-│       ├── drone/                      /* drone-view images
+│       ├── drone/                      /* drone images
 │           ├── 03_0001.JPG
 │           ├── 03_0002.JPG
 │           ├── 03_0003.JPG
 |           ...
-│       ├── satellite03.tif              	    /* satellite-view image
+│       ├── satellite03.tif              	    /* satellite maps
 │       ├── 03.csv						/* format as: filename latitude longitude height ···
 ```
 
