@@ -39,9 +39,19 @@ You can download our overall dataset (16.4 GB) on [Google Drive](https://drive.g
 
 Our overall dataset contains 6,742 drone images and 11 satellite maps, with a total size of 16.4GB. As presented in TABLE I, we provide the attributes of drone images, such as the latitude and longitude of the center point, shooting height, shooting date, and drone heading angle (Phi). The resolution of drone images is roughly 0.1 m to 0.2 m per pixel. We further provide the GPS latitude and longitude ranges for 11 satellite maps. One satellite map can encompass various terrains, such as cities, towns, farms, and rivers, and with a spatial resolution of 0.3 m. 
 
-<div align=center>
-<img src="https://github.com/IntelliSensing/UAV-VisLoc/blob/main/img/table2.png" width="60%">
-</div>
+<center>
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    src="https://github.com/IntelliSensing/UAV-VisLoc/blob/main/img/table2.png" width="100%>
+    <br>
+    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    display: inline-block;
+    color: #999;
+    padding: 2px;">TABLE I: A SUMMARY OF RELATED UAV VISUAL LOCALIZATION DATASETS.</div>
+</center>
+
+
+
 
 The dataset contents are as follows:
 
@@ -87,11 +97,17 @@ You can download our dataset example (2.04 GB) on [Google Drive](https://drive.g
 
 We further provide a high-quality dataset sample, comprising carefully selected UAV images that exhibit minimal coordinate error and feature a diverse range of topographical elements, with a total size of 2.04 GB
 
-As shown in Fig. 2, the satellite map in the dataset sample encompasses various terrains, such as cities, towns, farms, and rivers.
 
-<div align=center>
-<img src="https://github.com/IntelliSensing/UAV-VisLoc/blob/main/img/fig2.png" width="60%">
-</div>
+<center>
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    src="https://github.com/IntelliSensing/UAV-VisLoc/blob/main/img/fig2.png" width="100%>
+    <br>
+    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    display: inline-block;
+    color: #999;
+    padding: 2px;">As shown in Fig. 2, the satellite map in the dataset sample encompasses various terrains, such as cities, towns, farms, and rivers.</div>
+</center>    
 
 Detailed File Structure：
 
