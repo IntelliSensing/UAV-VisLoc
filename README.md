@@ -21,7 +21,7 @@ We unify the definition of visual localization methods for UAVs in real scenario
 Fig. 1 shows the dataset-collecting process. The red point in the coordinate system represents the projection of the drone’s current location on the ground, i.e., the center point of the image taken by the drone. The yellow points represent the satellite map boundaries of the entire flight range.
 
 <div align=center>
-<img src="https://github.com/IntelliSensing/UAV-VisLoc/img/fig1.png" width="60%">
+<img src="https://github.com/IntelliSensing/UAV-VisLoc/blob/main/img/fig1.png" width="60%">
 </div>
 ## 2. About Dataset
 
