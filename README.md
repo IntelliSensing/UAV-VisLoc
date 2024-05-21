@@ -19,11 +19,17 @@ Our technical report has been released on the [arXiv](https://arxiv.org/abs/2405
 ## 1. Introduction
 We unify the definition of visual localization methods for UAVs in real scenarios and propose a dataset as a benchmark for the visual localization task. The UAV can obtain its location coordinates by matching the UAV image with the satellite map when losing its GNSS coordinates. To construct the benchmark dataset, we collect a sequence of images on the UAV flight track in our dataset, and we further collect an orthorectified remote sensing map covering a large geographic area in which every pixel is labeled with coordinates.
 
-Fig. 1 shows the dataset-collecting process. The red point in the coordinate system represents the projection of the drone’s current location on the ground, i.e., the center point of the image taken by the drone. The yellow points represent the satellite map boundaries of the entire flight range.
 
-<div align=center>
-<img src="https://github.com/IntelliSensing/UAV-VisLoc/blob/main/img/fig1.png" width="60%">
-</div>
+<center>
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    src="https://github.com/IntelliSensing/UAV-VisLoc/blob/main/img/fig1.png" width="100%>
+    <br>
+    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    display: inline-block;
+    color: #999;
+    padding: 2px;">Fig. 1 shows the dataset-collecting process. The red point in the coordinate system represents the projection of the drone’s current location on the ground, i.e., the center point of the image taken by the drone. The yellow points represent the satellite map boundaries of the entire flight range.</div>
+</center>
 
 ## 2. About Dataset
 
