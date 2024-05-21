@@ -45,7 +45,7 @@ The dataset contents are as follows:
 
 | Drone Images | Satellite Maps | Cites | Categories |
 | ------------ | -------------- | ----- | ---------- |
-| 6742         | 11             | 11    | 7          |
+| 6,742        | 11             | 11    | 7          |
 
 
 More detailed file structure:
@@ -54,28 +54,28 @@ More detailed file structure:
 ├── UAV-VisLoc/
 │   ├── satellite_coordinates_range.csv   /* format as: filename latitude longitude
 │   ├── 01/
-│       ├── drone/                    /* drone images
+│       ├── drone/                    /* Drone Images
 │           ├── 01_0001.JPG
 │           ├── 01_0002.JPG
 │           ├── 01_0003.JPG
 |           ...
-│       ├── satellite01.tif              	   /* satellite maps
+│       ├── satellite01.tif              	   /* Satellite Maps
 │       ├── 01.csv			   		   /* format as: filename latitude longitude height ···
 │   ├── 02/
-│       ├── drone/                     /* drone images
+│       ├── drone/                     /* Drone Images
 │           ├── 02_0001.JPG
 │           ├── 02_0002.JPG
 │           ├── 02_0003.JPG
 |           ...
-│       ├── satellite02.tif               		/* satellite maps
+│       ├── satellite02.tif               		/* Satellite Maps
 │       ├── 02.csv				        /* format as: filename latitude longitude height ···
 │   ├── 03/
-│       ├── drone/                      /* drone images
+│       ├── drone/                      /* Drone Images
 │           ├── 03_0001.JPG
 │           ├── 03_0002.JPG
 │           ├── 03_0003.JPG
 |           ...
-│       ├── satellite03.tif              	    /* satellite maps
+│       ├── satellite03.tif              	    /* Satellite Maps
 │       ├── 03.csv						/* format as: filename latitude longitude height ···
 ```
 
