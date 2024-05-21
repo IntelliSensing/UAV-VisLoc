@@ -24,7 +24,7 @@ The dataset collecting process is shown in Fig. 1. The task is defined as a UAV 
 
 | ![fig1.png](https://github.com/IntelliSensing/UAV-VisLoc/blob/main/img/fig1.png) | 
 |:--:| 
-| *Fig. 1 The dataset collecting process.* |
+| *Fig. 1 The dataset collecting process.The red point in the coordinate system represents the projection of the drone's current location on the ground, i.e., the center point of the image taken by the drone. The yellow points represent the satellite map boundaries of the entire flight range.* |
 
 ## 2. About Dataset
 
@@ -89,7 +89,7 @@ As shown in Fig. 2, each satellite map downloaded from Google Maps contains all 
 
 | ![fig2.png](https://github.com/IntelliSensing/UAV-VisLoc/blob/main/img/fig2.png) | 
 |:--:| 
-| *Fig. 2 An example of drone images and satellite map.* |
+| *Fig. 2 An example of drone images and satellite map. The red dots in the satellite map represent the center points of drone images. The satellite map encompasses various terrains such as cities, towns, farms, and rivers. We also show the drone images of these terrains.* |
 
 Detailed File Structure：
 
