@@ -81,7 +81,7 @@ More detailed file structure:
 
 ### 2.2 Dataset Example
 
-You can download our dataset example (2.04 GB) on [Google Drive](https://drive.google.com/file/d/16tY7tPZiNIoyAhknvyXnp0jAfccIcHtL/view?usp=sharing) or [Baidu Net Disk](https://pan.baidu.com/s/13zgbP3Kjk1FDfZ47fBaC0g?pwd=rsai).
+You can download our dataset example (2.04 GB) on [Google Drive](https://drive.google.com/file/d/16tY7tPZiNIoyAhknvyXnp0jAfccIcHtL/view?usp=sharing) or [Baidu Net Disk](https://pan.baidu.com/s/1QPnTwZaW8pT6fzjXPo1SFQ?pwd=rsai).
 
 We further provide a high-quality dataset sample, comprising carefully selected UAV images that exhibit minimal coordinate error and feature a diverse range of topographical elements, with a total size of 2.04 GB
 
