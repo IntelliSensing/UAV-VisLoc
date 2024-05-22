@@ -30,7 +30,7 @@ The dataset collecting process is shown in Fig. 1. The task is defined as a UAV 
 
 ### 2.1 Overall Dataset
 
-You can download our overall dataset (16.4 GB) on [Google Drive](https://drive.google.com/file/d/1xYODANyilEMM3CfWh85APwkTHQeLTcCT/view?usp=sharing).
+You can download our overall dataset (16.4 GB) on [Google Drive](https://drive.google.com/file/d/1xYODANyilEMM3CfWh85APwkTHQeLTcCT/view?usp=sharing) or [Baidu Net Disk](https://pan.baidu.com/s/13zgbP3Kjk1FDfZ47fBaC0g?pwd=rsai ).
 
 Our overall dataset contains 6,742 drone images and 11 satellite maps, with a total size of 16.4GB. As presented in TABLE I, we provide the attributes of drone images, such as the latitude and longitude of the center point, shooting height, shooting date, and drone heading angle (Phi). The resolution of drone images is roughly 0.1 m to 0.2 m per pixel. We further provide the GPS latitude and longitude ranges for 11 satellite maps. One satellite map can encompass various terrains, such as cities, towns, farms, and rivers, and with a spatial resolution of 0.3 m. 
 
@@ -81,7 +81,7 @@ More detailed file structure:
 
 ### 2.2 Dataset Example
 
-You can download our dataset example (2.04 GB) on [Google Drive](https://drive.google.com/file/d/16tY7tPZiNIoyAhknvyXnp0jAfccIcHtL/view?usp=sharing).
+You can download our dataset example (2.04 GB) on [Google Drive](https://drive.google.com/file/d/16tY7tPZiNIoyAhknvyXnp0jAfccIcHtL/view?usp=sharing) or [Baidu Net Disk](https://pan.baidu.com/s/13zgbP3Kjk1FDfZ47fBaC0g?pwd=rsai).
 
 We further provide a high-quality dataset sample, comprising carefully selected UAV images that exhibit minimal coordinate error and feature a diverse range of topographical elements, with a total size of 2.04 GB
 
@@ -122,7 +122,7 @@ If you find this repository useful for your publications, please consider citing
 ```LaTeX
 @article{xu2024uavvisloc,
       title={UAV-VisLoc: A Large-scale Dataset for UAV Visual Localization}, 
-      author={Xu, Wenjia and Yao, Yaxuan and Cao, Jiaqi  and Wei, Zhiwei and Liu, Chunbo and Wang, Jiuniu and Peng, Mugen},
+      author={Xu, Wenjia and Yao, Yaxuan and Cao, Jiaqi and Wei, Zhiwei and Liu, Chunbo and Wang, Jiuniu and Peng, Mugen},
       year={2024},
       journal={arXiv preprint arXiv:2405.11936},
 }
